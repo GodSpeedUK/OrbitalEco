@@ -1,0 +1,5 @@
+name: OrbitalEco
+version: '${project.version}'
+main: dev.speed.orbitaleco.OrbitalEco
+api-version: 1.19
+depend: [FastLib]
